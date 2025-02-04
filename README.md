@@ -50,5 +50,4 @@ If you have suggestions for improving the analysis or wish to contribute, feel f
 ## Acknowledgements
 
 - Thanks to RapidMiner for providing a powerful platform to process and analyze data.
-- Thanks to the Austin Police Department for making crime data publicly available.
 
